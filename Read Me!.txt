@@ -1,0 +1,3 @@
+There are fifty people in a room,and we give each of them 100 dollars.
+With each game breaker, each person has to randomly give one dollar to another person.
+When someone runs out of money,they lose.
